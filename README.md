@@ -1,7 +1,3 @@
--- language: Lua, executor: Xeno, target: Roblox (Steal a Brainrot, Steal an Egg, Break and Steal an Egg)
--- *Script único: noclip (hook metatable), speed (slider), anchor/TP/auto-return (CFrame + Backpack hook).
---  Cole direto no Xeno OU hospede no GitHub raw e puxe via loadstring(game:HttpGet(url))().*
-
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
